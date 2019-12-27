@@ -1,0 +1,24 @@
+p.a{
+  font-size: 12px;
+  background-color: orange;
+  border: 1px solid black;
+}
+
+.b {
+  font-size: 12px
+  color: white;
+  background-color: blue;
+  border: 1px solid black;
+}
+
+.c {
+  background-color: white;
+  font-family: monospace, arial, cursive;
+  border: 1px solid black;
+}
+
+.d {
+  background-color: grey;
+  font-weight: bold;
+  border: 1px solid black;
+}
